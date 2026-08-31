@@ -2,7 +2,7 @@
 Hi there, I am a **TOGAF 9.2 Certified Senior Architect** with **19+ years of experience** bridging Embedded Linux, AOSP/AAOS, Large-Scale OTT Streaming, and Cloud-Native Ecosystems. US Patent holder and open-source contributor.
 
 📍 Bengaluru, India  
-📫 ajitku1984@gmail.com | 🌐 [LinkedIn](https://linkedin.com/in/ajit-kumar-97714b17)
+📫 ajitpro2007@gmail.com | 🌐 [LinkedIn](https://linkedin.com/in/ajit-kumar-97714b17)
 
 ---
 
